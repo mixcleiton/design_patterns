@@ -1,2 +1,2 @@
-# design_patterns_go
+# design_patterns
 Project with implemetation of some design patterns
